@@ -1,0 +1,100 @@
+h1 {
+    color: rgb(12, 12, 12);
+    font-size: 100px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+p {
+    text-align: left;
+}
+.is-centered {
+    text-align: center;
+}
+.is-red {
+    color: red;
+}
+#game {
+    width: 320px;
+    height: 240px;
+    overflow: hidden;
+    background: linear-gradient(#011322a2, #bae8ff 80%, #075007 80%);
+}
+#player {
+    margin-top: 140px;
+    margin-left: 50px;
+}
+
+
+
+
+h1 {
+    color: rebeccapurple !important;
+}
+.green {
+    color: mediumseagreen!important;
+}
+.red {
+    color:rgb(0,0,0) !important;
+}
+#red {
+    color: tomato;
+}
+
+
+
+.quote p {
+    color: darkslategrey;
+    font-style: italic;
+}
+* {
+    outline: 1px solid red;
+}
+
+.header > img {
+    height: 50px;
+}
+
+
+
+
+input {
+    padding: 5px;
+    border-color: rebeccapurple;
+}
+input[type="text"] {
+    border: none;
+    border-bottom: 2px solid rebeccapurple;
+}
+input[type="submit"] {
+    color: white;
+    background-color: rebeccapurple;
+}
+
+
+
+
+h1 {
+    color: cyan !important;
+    background-color: grey;
+  }
+  .text-deco-none{
+    text-decoration: none;
+  }
+  .center-text{
+    text-align: center;
+  }
+  .cyan{
+    color: aqua;
+  }
+  .black{
+   background-color: black;
+  }
+
+  
+
+
+
+
+
