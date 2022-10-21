@@ -130,6 +130,29 @@ h1 {
   button {
     border-radius: 5px;
   }
+  h1, h2 {
+    display: inline;
+    background-color: cyan;
+}
+label, input {
+    display: block;
+}
+p {
+  display: inline-block;
+  width: 200px;
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: lightgreen;
+  margin: 10px;
+}
+a {
+  text-decoration: none;
+  color: darkslategrey;
+  background-color: blanchedalmond;
+  padding: 10px;
+  margin: 10px;
+}
+
 
 
 
