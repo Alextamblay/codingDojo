@@ -1,0 +1,64 @@
+h1{
+    color: rgb(185, 14, 148);
+    text-align: center;
+}
+body{
+    background-color: beige;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.purple-fondo{
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 30px;
+}
+.blue-fondo{
+    background-color: blue;
+    padding: 20px;
+    margin: 30px;
+}
+.brown-fondo{
+    background-color: brown;
+    padding: 20px;
+    margin: 30px;
+}
+.margin{
+    margin: 15px;
+}
+img.fin{
+    height: 200px;
+    background-color: aliceblue;
+}
+img.kitty{
+    height: 200px;
+    background-color: aliceblue;
+}
+img.pony{
+    height: 200px;
+    background-color: aliceblue;
+}
+img.pushin{
+    height: 200px;
+    background-color: aliceblue;
+}
+img.pyton{
+    height: 200px;
+    background-color: aliceblue;
+}
+img.link{
+    height: 200px;
+    background-color: aliceblue;
+}
+img.kimona{
+    height: 200px;
+background-color: aliceblue;
+}
+img.nyancat{
+    height: 200px;
+    background-color: aliceblue;
+
+}
