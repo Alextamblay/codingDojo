@@ -11,54 +11,27 @@ body{
     justify-content: space-around;
 
 }
-.purple-fondo{
-    background-color: blueviolet;
+.padmar{
     padding: 20px;
     margin: 30px;
+}
+
+.purple-fondo{
+    background-color: blueviolet;
+ 
 }
 .blue-fondo{
     background-color: blue;
-    padding: 20px;
-    margin: 30px;
+
 }
 .brown-fondo{
     background-color: brown;
-    padding: 20px;
-    margin: 30px;
+
 }
 .margin{
     margin: 15px;
 }
-img.fin{
+img.octocat {
     height: 200px;
     background-color: aliceblue;
-}
-img.kitty{
-    height: 200px;
-    background-color: aliceblue;
-}
-img.pony{
-    height: 200px;
-    background-color: aliceblue;
-}
-img.pushin{
-    height: 200px;
-    background-color: aliceblue;
-}
-img.pyton{
-    height: 200px;
-    background-color: aliceblue;
-}
-img.link{
-    height: 200px;
-    background-color: aliceblue;
-}
-img.kimona{
-    height: 200px;
-background-color: aliceblue;
-}
-img.nyancat{
-    height: 200px;
-    background-color: aliceblue;
-
 }
