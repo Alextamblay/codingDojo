@@ -16,23 +16,23 @@ body{
     flex: 1;
     padding: .1em;
     margin: .1em;
-    background-color: blueviolet;
+    background-color: blue;
 }
 .col-2{
     flex: 2;
     padding: .1em;
     margin: .1em;
-    background-color: rgb(165, 42, 99);
+    background-color: red;
 }
 .col-3{
     flex: 3;
     padding: .1em;
     margin: .1em;
-    background-color: rgb(3, 160, 207);
+    background-color: yellow;
 }
 .col-5{
     flex: 5;
     padding: .1em;
     margin: .1em;
-    background-color: rgb(74, 3, 207);
+    background-color: rgb(235, 115, 205);
 }
