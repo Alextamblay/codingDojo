@@ -1,0 +1,22 @@
+.row{
+    display: flex;
+    padding: 20px;
+    margin: 10px;
+}
+.col{
+    flex: 1;
+}
+
+.barra{
+    background-color: rgb(209, 170, 245);
+    font-family: cursive;
+    color: rgb(86, 3, 141);
+}
+img{
+    width: 150px;
+    border-radius: 1000em;
+    margin-left: 450px;
+}
+.parrafo{
+    text-align: center;
+}

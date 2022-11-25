@@ -1,0 +1,38 @@
+*{
+    outline: solid black 1px;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(238, 238, 238);
+}
+.row{
+    margin: .5em;
+    padding: .2em;
+    display: flex;
+    background-color: aquamarine;
+}
+.col{
+    flex: 1;
+    padding: .1em;
+    margin: .1em;
+    background-color: blueviolet;
+}
+.col-2{
+    flex: 2;
+    padding: .1em;
+    margin: .1em;
+    background-color: rgb(165, 42, 99);
+}
+.col-3{
+    flex: 3;
+    padding: .1em;
+    margin: .1em;
+    background-color: rgb(3, 160, 207);
+}
+.col-5{
+    flex: 5;
+    padding: .1em;
+    margin: .1em;
+    background-color: rgb(74, 3, 207);
+}
